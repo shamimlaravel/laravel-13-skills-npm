@@ -1,6 +1,6 @@
 {
   "name": "@shamimstack/laravel-13-skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI skill package for Laravel 13 PHP 8 attributes - write new code and refactor old Laravel code to attribute syntax",
   "main": "SKILL.md",
   "type": "module",
